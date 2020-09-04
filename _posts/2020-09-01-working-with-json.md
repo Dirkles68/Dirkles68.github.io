@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Day of School
+title: Working with JSON
 excerpt: I did a Python thing
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
