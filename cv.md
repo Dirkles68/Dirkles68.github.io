@@ -3,68 +3,36 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+I am currently working with a pest control company in Austin, Texas. I handle all scheduling/routing and operations. 
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
-
-## Awards
-
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
+`2004 - 2009`
+__Texas State University__
+BS in Geography
+GIS Certificate
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Scheduling Manager__, Barefoot Mosquito and Pest Control 
 
-- Task
-- Task
+- Create daily services schedule
+- Manage schedules of service technician staff
+- Create and maintain data sources for service and staff related issues
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2008 - 2016`
+__Operations / Driver / Scheduling Manager__, Greenling and Farmhouse Delivery 
 
-- Task
-- Task
+- Many
+- Many
+- Many
+- Things
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2020 -->
 
 
