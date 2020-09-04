@@ -1,6 +1,10 @@
 ---
 layout: post
-title: "Working with JSON"
+title: First Day of School
+excerpt: I did a Python thing
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
 ---
 
 ##Working with JSON
