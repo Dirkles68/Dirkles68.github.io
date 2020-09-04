@@ -3,10 +3,14 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am a father of two boys. I work for a living. I am not a professional anything. I am just a person. I am working on expanding my skills for the enjoyment of it. 
 
-## Current Interests and Projects:
+## Here is a list of my plans over the next few months:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Website Design / HTML / CSS
+- GitHub / [Here is mine so far...](https://dirkles68.github.io/)
+- Update and sharpen my now dulled GIS skills
+- Python
+- SQL / PHP
+- Become more familiar with the inner workings of Windows / Linux (Shell and Terminal)
+- Get my __double bass pedaling__ back up to snuff
