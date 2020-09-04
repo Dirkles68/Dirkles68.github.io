@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "First Day of School"
 date: 2020-08-29
 ---
