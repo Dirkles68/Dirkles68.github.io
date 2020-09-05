@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Day of School
-excerpt: "Huh?" 
+excerpt: Finding a purpose
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
