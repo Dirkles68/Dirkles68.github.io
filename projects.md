@@ -1,18 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Projects</title>
-</head>
-<body class="page"> 
-    <h3>Projects</h3>
+---
+layout: page
+title: Presentations
+---
 
-    <p>Here are some examples of projects I have worked on in the past. I will organize them by subject matter for easier viewing.</p><br><br>
-    <h1>Python</h1><br>
-    <ul>
-        <li><a href=#>Four Rooms</a> // Four Rooms is a text based adventure game that requires specific input from the user to move along the story.</li>
-            
-    </ul>
+### Projects
+
+Here are some examples of projects I have completed. I will organize them by subject matter for easier viewing. 
+
+## Python
+ - Four Rooms // This is a text based adeventure game utilizing user inputs to move along the adventure. 
+ - Activity Scheduler // This is a simple activity scheduling program that allows the user to assign pre-determined categories to a daily schedule. 
+   
+
+    
 
 
-</body>
-</html>
+
