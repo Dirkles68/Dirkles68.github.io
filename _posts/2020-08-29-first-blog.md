@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Day of School
+title: First Day of School | Day One
 excerpt: Finding a purpose
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
