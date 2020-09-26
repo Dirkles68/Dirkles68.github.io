@@ -11,6 +11,6 @@ Tonight, I did not start a new tutorial. I just wanted to work some more on my p
 
 ![Navigation Bar](/images/nav_bar.png)
 
-I am kind of proud of it. It only took me 2 hours to make. It should take me five minutes. I will get there eventually. And in my defense, I was exploring other options and cleaning up code, moving things to a CSS file at the same time. So not all 2 hours was spent on the navbar, just most of it. 
+I am kind of proud of it. It only took me 2 hours to make. It should take me five minutes. I will get there eventually. And in my defense, I was exploring other options and cleaning up code, moving things to a CSS file at the same time. So not all 2 hours was spent on the navbar, just most of it.
 
 Dirkles, out.
