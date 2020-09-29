@@ -19,6 +19,6 @@ The plan is the same. I will work on tutorials and then focus on related project
 
 I did not do any learning last weekend. The boys were crazy and the house was a mess. Things needed to get done. I wish I could say that I did some relaxing, but other than hiking with the family, it was somewhat stressful as usual.
 
-![Image](images/me_oliver_hike.jpg)
+![Hiking!](/images/me_oliver_hike.jpg)
 
-Dirkles, out. 
+Dirkles, out.
