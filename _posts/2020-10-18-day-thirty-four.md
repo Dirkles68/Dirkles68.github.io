@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day Thirty Three
+title: Day Thirty Four
 excerpt: Another Project Finished
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
@@ -11,4 +11,4 @@ Alright, feeling pretty good. I am really starting to get a hang of this (and by
 
 [Here it is if you are curious](https://codepen.io/dirkles68/pen/gOMaZbv)
 
-Dirkles, out. 
+Dirkles, out.
