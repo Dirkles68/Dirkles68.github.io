@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day Thirty Five
-excerpt: New freecodecamp Project : Technical Document
+excerpt: Creating a Technical document
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
@@ -11,4 +11,4 @@ This one seems pretty simple. A straightforward technical doc, with very little 
 
 And before I go, is there a way to check how much data is stored in a Github repo?
 
-Dirkles, out. 
+Dirkles, out.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Day Thirty Six?
-excerpt: New freecodecamp Project : Technical Document
+title: Day Thirty Six
+excerpt: More technical doc
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
