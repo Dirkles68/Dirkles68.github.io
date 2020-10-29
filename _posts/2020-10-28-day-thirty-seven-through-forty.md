@@ -13,4 +13,6 @@ Now to the fun part. While I have been working on my technical doc page (which I
 
 As for the technical doc page, it is still a work in progress.
 
-Dirkles, out. 
+[Here it is so far](https://codepen.io/dirkles68/full/JjKRPwr)
+
+Dirkles, out.
