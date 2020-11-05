@@ -24,6 +24,6 @@ Well it is official. I am a genius. I managed to fix my old laptop. No, not the 
 
 So that is it. I really thought it was going to be much more difficult. I am glad it is done. So now, I have a new desktop, and a refreshed laptop. Not bad.
 
-### Any progress on the technical document website?
+# Any progress on the technical document website?
 
-Not really, maybe a couple of lines here or there. I think I am going to starting buttoning it up. It is taking me way too long to complete it. I did run the tests to make sure it contains all necessary components, and it is good. I just need to find a stopping place, and finish it. 
+Not really, maybe a couple of lines here or there. I think I am going to starting buttoning it up. It is taking me way too long to complete it. I did run the tests to make sure it contains all necessary components, and it is good. I just need to find a stopping place, and finish it.
