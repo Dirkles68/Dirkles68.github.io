@@ -27,3 +27,5 @@ So that is it. I really thought it was going to be much more difficult. I am gla
 # Any progress on the technical document website?
 
 Not really, maybe a couple of lines here or there. I think I am going to starting buttoning it up. It is taking me way too long to complete it. I did run the tests to make sure it contains all necessary components, and it is good. I just need to find a stopping place, and finish it.
+
+Dirkles, out. 
