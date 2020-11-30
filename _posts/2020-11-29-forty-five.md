@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Forty Five
-excerpt: "Let's make some changes mid-stream" Edition \#1
+excerpt: "Let's make some changes mid-stream" Edition Number 1
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
@@ -13,6 +13,6 @@ Since my last post, I was still working on the technical document and also fixin
 
 The final project from the [freecodecamp.org](https://www.freecodecamp.org/) Responsive Web Design Certification was to create a personal portfolio page. I finished that as well. You can find that one [here](https://codepen.io/dirkles68/full/oNLOzaV). I actually had fun making this last one. It was very informative and helped me understand a little further how to use grids in CSS.
 
-I have not moved on to JavaScript on freecodecamp.org. I will provide updates to that as needed.
+I have now moved on to JavaScript on freecodecamp. I will provide updates to that as needed.
 
 Dirkles, out.
