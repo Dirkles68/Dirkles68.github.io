@@ -15,4 +15,4 @@ The final project from the [freecodecamp.org](https://www.freecodecamp.org/) Res
 
 I have not moved on to JavaScript on freecodecamp.org. I will provide updates to that as needed.
 
-Dirkles, out. 
+Dirkles, out.
